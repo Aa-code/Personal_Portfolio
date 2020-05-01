@@ -1,2 +1,2 @@
 # A responsive home page built with HTML and CSS
- <img src="https://code-ninjas-stamford.slack.com/files/USRS47R6K/F012W3HS2S1/screen_shot_2020-05-01_at_4.14.58_pm.png">
+<img src="file:///Users/hinata/Desktop/Screen%20Shot%202020-05-01%20at%204.14.58%20PM%20(1).png"
