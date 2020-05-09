@@ -6,3 +6,8 @@
 // 3
 // We can do arithmetic with numbers
 // console.log(100 + 100);
+// 4
+// Assign VALUES to VARIABLES
+// - Pharse is the variable and the sentence is the value
+const phrase = "I love Chocolate!"
+console.log(phrase)
