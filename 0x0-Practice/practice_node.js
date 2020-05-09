@@ -40,3 +40,13 @@
 // We can insert values of variables into our strings // pretty cool!
 // const adjective = 'beautiful';
 // console.log('what a ' + adjective + ' day!!')
+// 9 
+//  applying my own re asigning and concatnating a sentence
+// let bitcoin = "fudge"
+// bitcoin = "diego"
+// console.log('I love ' + bitcoin + ' so much')
+// 10 
+// using backtics instead of the plus sign also known as template literals. ${grabs variable}
+// const adjective = 'beautiful';
+
+// console.log(`What a ${adjective} day!`);
