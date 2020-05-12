@@ -50,3 +50,10 @@
 // const adjective = 'beautiful';
 
 // console.log(`What a ${adjective} day!`);
+
+// DO IT ON MY OWN
+
+
+const word = 'believe'
+
+console.log('Please ' + word + ' the ' + 'cheese')
