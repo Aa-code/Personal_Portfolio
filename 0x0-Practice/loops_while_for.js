@@ -46,6 +46,14 @@ Check: is 20 less-than-or-equal-to 20? true
 // }
 
 
+// FOR LOOPS
+//  for loops are written different than a while loop and shorter
+
+// for (let i=1; i <= 1000; i++) {
+// 	console.log('The number is: ' + i);
+// }
+
+
 
 
 
