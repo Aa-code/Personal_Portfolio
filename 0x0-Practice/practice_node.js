@@ -54,6 +54,16 @@
 // DO IT ON MY OWN
 
 
-const word = 'believe'
+// const word = 'believe'
 
-console.log('Please ' + word + ' the ' + 'cheese')
+// console.log('Please ' + word + ' the ' + 'cheese') 
+
+//  Output a console log "The sum of 5 and 10 is 15" where the values for 5 and 10 are saved to variables, and where 15 comes from those variables being summed.
+// console.log('The ' + 'sum ' + ' of' + ' 5' + ' and' + ' 10' + ' is' + ' 15')
+
+// b. Repeat using template literals
+// Using template literals to solve a math probelm 5 + 10
+const num1 = 5
+const num2 = 10
+// console.log(`The sum of ${num1} and ${num2} is 15`);
+console.log((num1+num2))
