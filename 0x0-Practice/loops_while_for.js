@@ -35,6 +35,7 @@ Check: is 20 less-than-or-equal-to 20? true
   
 
 // Trying to find the square of each number in the while loop
+// In while loops we set the variable assigned value outside of the loop
 
 
 // let num = 1;
