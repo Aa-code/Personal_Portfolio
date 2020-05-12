@@ -21,3 +21,30 @@ Check: is 20 less-than-or-equal-to 20? true
 // console.log(0 < 1000);
 // console.log(888 == 889);
 // console.log(20 <= 20);
+
+// WHILE LOOPS
+// Write another while loop, but write it from memory. Make the loop count from 0 to 5000 and print the square of each number. 
+// I didnt get what they meant by "print the square of each number"
+// let num = 1;
+
+// while (num <= 5000) {
+// 	console.log(num);
+//     num++;
+//     Math.pow([num]*2);
+//     }
+  
+
+// Trying to find the square of each number in the while loop
+
+
+// let num = 1;
+// while (num <= 10) {
+//    console.log(Math.sqrt(num));
+//     num++;
+
+// }
+
+
+
+
+
