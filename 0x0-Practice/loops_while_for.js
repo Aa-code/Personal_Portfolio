@@ -8,3 +8,16 @@
 <= less than or equal to
 != is not equal
 //  */}
+
+// 3 min activity using boolean expressions
+/*
+Check: is -10 greater-than-or-equal-to -100? true
+Check: is 0 less than 1000? true
+Check: is 888 the same as 889? false
+Check: is 20 less-than-or-equal-to 20? true
+*/
+
+// console.log(-10 >= -100);
+// console.log(0 < 1000);
+// console.log(888 == 889);
+// console.log(20 <= 20);
